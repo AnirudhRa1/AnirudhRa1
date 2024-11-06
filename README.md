@@ -5,10 +5,10 @@
 I'm a Computer Engineering student at MSRIT, passionate about development and interested in AI . Thanks for visiting and feel free to check out my repos:)
 
 #### 📫 Reach me at:
-- LinkedIn: https://in.linkedin.com/in/aarthi-prashanth-1606b0253
-- Email: aarthipv2004@gmail.com
+- LinkedIn: https://in.linkedin.com/in/anirudh
+- Email: anirudhaniurdh982@gmail.com
 
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarthipv&theme=shadow_green&show_icons=true)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhRa1&theme=shadow_green&show_icons=true)
 
 <!--
 **aarthipv/aarthipv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
